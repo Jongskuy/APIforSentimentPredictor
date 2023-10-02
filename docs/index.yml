@@ -1,0 +1,12 @@
+tags:
+  - name: Text Processing Tweeter 
+get:
+  description: Prediksi Sentimen dari Tweet
+responses:
+    '200':
+      description: Successful response
+    '400':
+      description: Bad Request
+    '500':
+      description: Internal Server Error
+    
